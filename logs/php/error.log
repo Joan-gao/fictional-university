@@ -1,0 +1,738 @@
+[10-Dec-2023 11:08:03 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 4
+[10-Dec-2023 11:34:12 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 7
+[10-Dec-2023 11:35:00 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 6
+[10-Dec-2023 11:35:01 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 6
+[10-Dec-2023 11:35:52 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 5
+[10-Dec-2023 11:36:36 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 5
+[10-Dec-2023 11:38:01 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 4
+[10-Dec-2023 11:38:55 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 4
+[10-Dec-2023 11:39:22 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 4
+[10-Dec-2023 11:40:26 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 4
+[10-Dec-2023 11:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_title() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php:5
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#3 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\index.php on line 5
+[13-Dec-2023 09:00:53 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[13-Dec-2023 09:00:54 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[14-Dec-2023 13:24:14 UTC] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php on line 20
+[16-Dec-2023 08:06:03 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php on line 38
+[17-Dec-2023 02:10:30 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[17-Dec-2023 02:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function id_page() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:19
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php(2): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 19
+[17-Dec-2023 02:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function id_page() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:19
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php(2): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 19
+[17-Dec-2023 02:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function id_page() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:19
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php(2): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 19
+[17-Dec-2023 08:25:49 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\archive.php on line 11
+[17-Dec-2023 09:01:23 UTC] PHP Warning:  Undefined array key 1 in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-query.php on line 3643
+[17-Dec-2023 09:01:35 UTC] PHP Warning:  Undefined array key 1 in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-query.php on line 3643
+[17-Dec-2023 09:22:26 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\xgao9\\...')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\xgao9\\...')
+#6 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 324
+[17-Dec-2023 09:24:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\xgao9\\...')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\xgao9\\...')
+#6 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 324
+[17-Dec-2023 09:26:28 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\xgao9\\...')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\xgao9\\...')
+#6 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 324
+[17-Dec-2023 09:28:29 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 23
+[17-Dec-2023 09:28:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[17-Dec-2023 09:28:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[17-Dec-2023 09:34:43 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 23
+[17-Dec-2023 09:34:56 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 23
+[17-Dec-2023 09:38:52 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 26
+[17-Dec-2023 09:39:07 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 26
+[17-Dec-2023 09:39:33 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 26
+[17-Dec-2023 09:39:49 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 26
+[17-Dec-2023 09:51:26 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "add_new_item", expecting ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 8
+[17-Dec-2023 10:09:27 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "public", expecting ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 5
+[17-Dec-2023 10:51:20 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "rewrite", expecting ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 6
+[17-Dec-2023 10:51:20 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "rewrite", expecting ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 6
+[17-Dec-2023 11:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php:31
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#3 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php on line 31
+[17-Dec-2023 11:25:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "custom_fe" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php:5
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): university_post_types('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-settings.php(643): do_action('init')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 5
+[26-Dec-2023 07:34:37 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:37 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:37 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:39 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:39 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:44 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:44 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:34:45 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 21
+[26-Dec-2023 07:49:46 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university_post_types.php on line 13
+[26-Dec-2023 07:57:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "labels", expecting ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university_post_types.php on line 7
+[26-Dec-2023 08:17:40 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php on line 71
+[26-Dec-2023 08:18:02 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php on line 71
+[26-Dec-2023 08:18:03 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php on line 71
+[27-Dec-2023 08:17:45 UTC] PHP Parse error:  Unmatched '}' in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 50
+[27-Dec-2023 08:17:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[27-Dec-2023 08:17:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[27-Dec-2023 08:48:09 UTC] PHP Parse error:  syntax error, unexpected token "foreach", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-event.php on line 27
+[27-Dec-2023 08:49:31 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-event.php on line 27
+[27-Dec-2023 08:50:22 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-event.php on line 27
+[27-Dec-2023 08:50:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-event.php on line 29
+[28-Dec-2023 02:05:22 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 16
+[28-Dec-2023 02:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_post_thumbnails() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php:21
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#3 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 21
+[28-Dec-2023 03:31:06 UTC] PHP Warning:  Undefined array key "size" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[28-Dec-2023 03:48:39 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 10
+[28-Dec-2023 03:48:39 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 10
+[28-Dec-2023 07:52:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:52:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:57:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:57:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:57:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:57:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 8
+[28-Dec-2023 07:59:46 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:46 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 07:59:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 11
+[28-Dec-2023 08:00:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 7 and exactly 1 expected in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:3
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php(7): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 3
+[28-Dec-2023 08:02:10 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:02:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:02:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:02:10 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 20
+[28-Dec-2023 08:02:34 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:02:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:02:34 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:02:34 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 20
+[28-Dec-2023 08:03:04 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:03:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:04 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 20
+[28-Dec-2023 08:03:25 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:03:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:30 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:32 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:03:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:03:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:04:02 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:04:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:04:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:04:03 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:04:06 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:04:54 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:04:57 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:05:07 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:05:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:09 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:05:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:11 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:05:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:12 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:05:12 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:12 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 15
+[28-Dec-2023 08:05:15 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:12:30 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:12:47 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:12:48 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:13:46 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:05 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:14 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:16 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:18 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:21 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:22 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:41 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:41 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 13
+[28-Dec-2023 08:14:45 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:45 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 13
+[28-Dec-2023 08:14:47 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:14:47 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 13
+[28-Dec-2023 08:15:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php on line 7 and exactly 1 expected in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:3
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php(7): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 3
+[28-Dec-2023 08:15:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 5
+[28-Dec-2023 08:15:32 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:15:32 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 13
+[28-Dec-2023 08:15:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 5
+[28-Dec-2023 08:15:41 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:15:41 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 13
+[28-Dec-2023 08:15:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 5
+[28-Dec-2023 08:15:42 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 9
+[28-Dec-2023 08:15:42 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 13
+[29-Dec-2023 01:51:06 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 83
+[29-Dec-2023 01:51:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[29-Dec-2023 01:51:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[29-Dec-2023 02:05:24 UTC] PHP Warning:  Undefined array key "Ing" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\archive-campus.php on line 19
+[29-Dec-2023 02:05:24 UTC] PHP Warning:  Undefined array key "Ing" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\archive-campus.php on line 19
+[29-Dec-2023 02:31:23 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:23 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:23 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:31:59 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:59 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:31:59 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:32:26 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:26 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:26 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:32:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:32:28 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:28 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:28 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:32:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:32:38 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:38 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:32:38 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:32:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:07 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:07 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:07 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:09 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:09 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:09 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:13 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:13 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:13 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:29 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:29 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:29 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:31 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:31 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:31 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:40 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:40 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:40 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:43 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:43 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 18
+[29-Dec-2023 02:33:43 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[29-Dec-2023 02:33:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-campus.php on line 20
+[01-Jan-2024 02:47:14 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 46
+[01-Jan-2024 02:47:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[01-Jan-2024 02:47:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[01-Jan-2024 02:47:29 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 46
+[01-Jan-2024 02:49:30 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 46
+[01-Jan-2024 02:51:31 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 46
+[01-Jan-2024 09:21:28 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[03-Jan-2024 06:43:57 UTC] PHP Warning:  Undefined variable $programsMetaQuery in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\search-route.php on line 83
+[03-Jan-2024 06:46:03 UTC] PHP Warning:  Undefined variable $programsMetaQuery in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\search-route.php on line 84
+[03-Jan-2024 06:46:29 UTC] PHP Warning:  Undefined variable $programsMetaQuery in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\search-route.php on line 84
+[03-Jan-2024 11:25:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "console" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\search.php:15
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#3 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\search.php on line 15
+[04-Jan-2024 01:32:09 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university_post_types.php on line 25
+[04-Jan-2024 03:30:24 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:112
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): redirectSubsToFrontend('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\index.php(10): require_once('C:\\Users\\xgao9\\...')
+#5 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 112
+[04-Jan-2024 03:30:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[04-Jan-2024 03:30:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[04-Jan-2024 03:30:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:112
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): redirectSubsToFrontend('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\users.php(11): require_once('C:\\Users\\xgao9\\...')
+#5 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 112
+[04-Jan-2024 03:31:29 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:112
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): redirectSubsToFrontend('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\index.php(10): require_once('C:\\Users\\xgao9\\...')
+#5 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 112
+[04-Jan-2024 03:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 03:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_registeration_url() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php:47
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(1): get_header()
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php on line 47
+[04-Jan-2024 08:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_create_nounce() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:57
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): university_files('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\script-loader.php(2262): do_action('wp_enqueue_scri...')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(3052): do_action('wp_head')
+#8 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\header.php(7): wp_head()
+#9 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(790): require_once('C:\\Users\\xgao9\\...')
+#10 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', true, Array)
+#11 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#12 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page-my-notes.php(8): get_header()
+#13 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#14 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#15 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#16 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 57
+[09-Jan-2024 08:43:22 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\like-route.php on line 30
+[09-Jan-2024 08:43:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[09-Jan-2024 08:43:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[09-Jan-2024 08:46:35 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\like-route.php on line 23
+[09-Jan-2024 08:48:36 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\like-route.php on line 23
+[09-Jan-2024 08:50:37 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_insert_post" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\inc\like-route.php on line 19
+[09-Jan-2024 12:56:13 UTC] PHP Warning:  Undefined variable $existQuery in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 46
+[09-Jan-2024 12:56:13 UTC] PHP Warning:  Attempt to read property "found_posts" on null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 46
+[11-Jan-2024 03:28:25 UTC] PHP Warning:  Undefined variable $existQuery in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 58
+[11-Jan-2024 03:28:25 UTC] PHP Warning:  Attempt to read property "posts" on null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 58
+[11-Jan-2024 03:28:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 58
+[11-Jan-2024 03:28:25 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php on line 58
+[11-Jan-2024 06:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php:7
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#3 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php on line 7
+[11-Jan-2024 06:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php:7
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#3 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php on line 7
+[11-Jan-2024 06:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 06:55:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 06:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 06:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 07:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 07:02:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page-my-notes.php(12): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[11-Jan-2024 07:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page-my-notes.php(12): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[11-Jan-2024 07:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page-my-notes.php(12): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[11-Jan-2024 07:02:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 07:02:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page.php(7): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[11-Jan-2024 07:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 07:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page-my-notes.php(12): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[11-Jan-2024 07:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 07:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:29
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\archive-program.php(5): pageBanner(Array)
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 29
+[11-Jan-2024 07:04:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(792): require()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template.php(725): load_template('C:\\Users\\xgao9\\...', false, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#6 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#7 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\template-parts\content-event.php on line 4
+[11-Jan-2024 07:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\page-search.php(7): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[11-Jan-2024 07:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php:25
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\single-professor.php(7): pageBanner()
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\xgao9\\...')
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\xgao9\\...')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\themes\functional-university-theme\functions.php on line 25
+[19-Jan-2024 07:06:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "{" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 13
+[19-Jan-2024 07:15:50 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 25
+[19-Jan-2024 07:17:51 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 25
+[19-Jan-2024 07:26:15 UTC] PHP Parse error:  syntax error, unexpected token "function", expecting "{" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 12
+[19-Jan-2024 07:30:38 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class WordCountAndTimePlugin does not have a method "adminPage" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\includes\menu.php(161): do_action('admin_menu', '')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\menu.php(417): require_once('C:\\Users\\xgao9\\...')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin.php(158): require('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\options-general.php(10): require_once('C:\\Users\\xgao9\\...')
+#6 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 324
+[19-Jan-2024 07:37:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 13 and at least 2 expected in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(13): add_action('admin_init')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(27): WordCountAndTimePlugin->__construct()
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-settings.php(473): include_once('C:\\Users\\xgao9\\...')
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\xgao9\\...')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\xgao9\\...')
+#5 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\xgao9\\...')
+#6 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[19-Jan-2024 07:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_setting_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:18
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): WordCountAndTimePlugin->settings('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 18
+[19-Jan-2024 07:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_setting_field() in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:18
+Stack trace:
+#0 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): WordCountAndTimePlugin->settings('')
+#1 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-admin\options-general.php(10): require_once('C:\\Users\\xgao9\\...')
+#5 {main}
+  thrown in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 18
+[19-Jan-2024 08:33:45 UTC] Settings function called
+[19-Jan-2024 08:33:45 UTC] Settings function completed
+[19-Jan-2024 08:33:52 UTC] Settings function called
+[19-Jan-2024 08:33:52 UTC] Settings function completed
+[19-Jan-2024 08:34:52 UTC] Settings function called
+[19-Jan-2024 08:34:52 UTC] Settings function completed
+[19-Jan-2024 08:38:55 UTC] Settings function called
+[19-Jan-2024 08:38:55 UTC] Settings function completed
+[19-Jan-2024 09:03:19 UTC] locationHTML function called
+[19-Jan-2024 09:03:28 UTC] locationHTML function called
+[19-Jan-2024 09:09:23 UTC] locationHTML function called
+[19-Jan-2024 09:09:58 UTC] locationHTML function called
+[19-Jan-2024 09:13:37 UTC] locationHTML function called
+[19-Jan-2024 09:13:40 UTC] locationHTML function called
+[19-Jan-2024 09:18:36 UTC] locationHTML function called
+[19-Jan-2024 09:18:40 UTC] locationHTML function called
+[19-Jan-2024 09:40:09 UTC] PHP Parse error:  syntax error, unexpected identifier "functio", expecting "function" or "const" in C:\Users\xgao9\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 17
